@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Visport_Webservice.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Visport_Webservice_WS_GeneralContent_WS_PartnerContent" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://xzone.vn:9036/WS_PartnerContent.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
